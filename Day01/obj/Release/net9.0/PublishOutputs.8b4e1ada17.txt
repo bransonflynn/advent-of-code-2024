@@ -1,0 +1,5 @@
+C:\Users\brans\Projects\AdventOfCode\Day01\bin\Release\net9.0\publish\Day01.exe
+C:\Users\brans\Projects\AdventOfCode\Day01\bin\Release\net9.0\publish\Day01.dll
+C:\Users\brans\Projects\AdventOfCode\Day01\bin\Release\net9.0\publish\Day01.deps.json
+C:\Users\brans\Projects\AdventOfCode\Day01\bin\Release\net9.0\publish\Day01.runtimeconfig.json
+C:\Users\brans\Projects\AdventOfCode\Day01\bin\Release\net9.0\publish\Day01.pdb
