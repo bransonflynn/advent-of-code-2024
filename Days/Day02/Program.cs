@@ -20,9 +20,7 @@
             foreach (var line in linesRead)
             {
                 string[] elemsStr = line.Split(" ");
-                Console.WriteLine("elemstr done");
                 int[] elems = Array.ConvertAll(elemsStr, int.Parse);
-                Console.WriteLine("convert done");
                 if (IsSafe(elems))
                 {
                     safeReports++;
