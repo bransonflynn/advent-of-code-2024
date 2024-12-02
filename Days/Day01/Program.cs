@@ -21,7 +21,7 @@ namespace AdventOfCode
         }
     }
 
-    internal static class Parts
+    internal class Parts
     {
         public static int Answer1()
         {
