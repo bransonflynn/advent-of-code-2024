@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brans\\Projects\\AdventOfCode\\Day02\\Day02.csproj": {}
+    "C:\\Users\\brans\\Projects\\AdventOfCode\\Days\\Day02\\Day02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brans\\Projects\\AdventOfCode\\Day02\\Day02.csproj": {
+    "C:\\Users\\brans\\Projects\\AdventOfCode\\Days\\Day02\\Day02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brans\\Projects\\AdventOfCode\\Day02\\Day02.csproj",
+        "projectUniqueName": "C:\\Users\\brans\\Projects\\AdventOfCode\\Days\\Day02\\Day02.csproj",
         "projectName": "Day02",
-        "projectPath": "C:\\Users\\brans\\Projects\\AdventOfCode\\Day02\\Day02.csproj",
+        "projectPath": "C:\\Users\\brans\\Projects\\AdventOfCode\\Days\\Day02\\Day02.csproj",
         "packagesPath": "C:\\Users\\brans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brans\\Projects\\AdventOfCode\\Day02\\obj\\",
+        "outputPath": "C:\\Users\\brans\\Projects\\AdventOfCode\\Days\\Day02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
